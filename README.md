@@ -2,6 +2,25 @@
 
 A human-readable unique ID generator ported from [Docker][docker]
 
+Generates names like:
+
+```
+elegant_hugle
+sleepy_nightingale
+epic_mccarthy
+...
+```
+
+optionally with a number:
+
+```
+vigorous_bhaskara6
+gallant_brahmagupta4
+stoic_keller2
+...
+```
+
+
 ## Usage
 
 A simple usage example:
